@@ -1,0 +1,14 @@
+{
+  "name": "myadvreact2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "normalizr": "^3.2.4",
+    "parcel-bundler": "^1.9.2"
+  }
+}
